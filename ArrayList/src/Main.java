@@ -99,10 +99,10 @@ public class Main {
       System.out.println(compareList);
 
       ArrayList<MyClass> students = new ArrayList<>();
-      students.add(new MyClass("Akshit", 5));
-      students.add(new MyClass("Bob", 7));
-      students.add(new MyClass("Alice", 6));
-      students.add(new MyClass("Charlie", 6));
+//      students.add(new MyClass("Akshit", 5));
+//      students.add(new MyClass("Bob", 7));
+//      students.add(new MyClass("Alice", 6));
+//      students.add(new MyClass("Charlie", 6));
 
       //For sorting
       students.sort((o1, o2) -> o2.getStudentGpa() - o1.getStudentGpa());
