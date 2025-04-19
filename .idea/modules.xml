@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Comparable/Comparable.iml" filepath="$PROJECT_DIR$/Comparable/Comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentHashMap/ConcurrentHashMap.iml" filepath="$PROJECT_DIR$/ConcurrentHashMap/ConcurrentHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcurrentSkipListMap/ConcurrentSkipListMap.iml" filepath="$PROJECT_DIR$/ConcurrentSkipListMap/ConcurrentSkipListMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/CopyOnArrayList/CopyOnArrayList.iml" filepath="$PROJECT_DIR$/CopyOnArrayList/CopyOnArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumMapDemo/EnumMapDemo.iml" filepath="$PROJECT_DIR$/EnumMapDemo/EnumMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashTable/HashTable.iml" filepath="$PROJECT_DIR$/HashTable/HashTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdentityHashMap/IdentityHashMap.iml" filepath="$PROJECT_DIR$/IdentityHashMap/IdentityHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImmutableMapDemo/ImmutableMapDemo.iml" filepath="$PROJECT_DIR$/ImmutableMapDemo/ImmutableMapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/LinkedHashMap/LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
